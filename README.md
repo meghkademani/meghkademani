@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Megh 👋
 
-<!--
-**meghkademani/meghkademani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering (ECE) student interested in technology, programming, electronics, and engineering projects.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MATLAB
+- Electric Vehicle Technology 
+- Embedded Systems
+- Electronics
+- Git & GitHub
+
+## 🛠️ Technologies & Tools
+
+- MATLAB
+- Git & GitHub
+- Easy EDA
+
+## 📌 Featured Projects
+
+### 🚗 Vehicle Speed Monitoring System
+
+A MATLAB-based system that monitors vehicle speed, detects overspeed conditions, classifies speed severity, visualizes speed data, simulates real-time monitoring, and exports monitoring results to CSV.
+
+## 🎯 My Goal
+
+To continuously learn, build practical projects, and grow as an engineer.
+
+---
+
+📫 Connect with me on LinkedIn
