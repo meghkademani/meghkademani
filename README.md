@@ -28,4 +28,4 @@ To continuously learn, build practical projects, and grow as an engineer.
 
 ---
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/megh-kademani/)
