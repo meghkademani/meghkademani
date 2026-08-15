@@ -11,14 +11,21 @@
 [![C](https://img.shields.io/badge/C-Developing-7F3FBF?style=for-the-badge\&logo=c\&logoColor=white)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![Python](https://img.shields.io/badge/Python-Developing-7F3FBF?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-Learning-7F3FBF?style=for-the-badge\&logo=arduino\&logoColor=white)](https://www.arduino.cc/)
-[![PCB Design](https://img.shields.io/badge/PCB%20Design-EasyEDA-7F3FBF?style=for-the-badge\&logo=easyeda\&logoColor=white)](https://easyeda.com/)
+[![PCB Design](https://img.shields.io/badge/PCB%20Design-Learning-7F3FBF?style=for-the-badge\&logo=easyeda\&logoColor=white)](https://easyeda.com/)
 [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Learning-7F3FBF?style=for-the-badge)](https://en.wikipedia.org/wiki/Embedded_system)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B2C83?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megh-kademani/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-5B2C83?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghkademani)
-![Profile Views](https://komarev.com/ghpvc/?username=meghkademani\&style=for-the-badge\&color=7F3FBF)
+<a href="https://www.linkedin.com/in/megh-kademani">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/meghkademani">
+  <img src="https://img.shields.io/badge/GitHub-Connect-5B2C83?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=meghkademani&style=for-the-badge&color=7F3FBF" alt="Profile Views"/>
 
 </div>
 
@@ -52,11 +59,11 @@ Alongside my technical development, I am building leadership and organizational 
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-5B2C83?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-5B2C83?style=flat-square\&logo=mathworks\&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-5B2C83?style=flat-square\&logo=easyeda\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5B2C83?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5B2C83?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Developing-5B2C83?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Developing-5B2C83?style=flat-square\&logo=mathworks\&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-Learning-5B2C83?style=flat-square\&logo=easyeda\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Learning-5B2C83?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Using-5B2C83?style=flat-square\&logo=github\&logoColor=white)
 
 > These are areas I am actively learning and developing through coursework, experimentation, and hands-on projects.
 
@@ -162,7 +169,7 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=meghkademani&theme=dark&hide_border=true&ring=9D6BFF&fire=9D6BFF&currStreakLabel=9D6BFF" />
+<img src="https://streak-stats.demolab.com?user=meghkademani&theme=dark&hide_border=true&ring=9D6BFF&fire=9D6BFF&currStreakLabel=9D6BFF" alt="GitHub Streak"/>
 
 </div>
 
@@ -172,7 +179,7 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghkademani&bg_color=0D1117&color=9D6BFF&line=7F3FBF&point=C9A7FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghkademani&bg_color=0D1117&color=9D6BFF&line=7F3FBF&point=C9A7FF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
@@ -182,7 +189,7 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=meghkademani&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=meghkademani&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -192,7 +199,7 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -233,8 +240,13 @@ Open To:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7F3FBF?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/megh-kademani/)
-[![GitHub](https://img.shields.io/badge/GitHub-Connect-5B2C83?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/meghkademani)
+<a href="https://www.linkedin.com/in/megh-kademani">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/meghkademani">
+  <img src="https://img.shields.io/badge/GitHub-Connect-5B2C83?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
