@@ -1,175 +1,119 @@
+# MEGH KADEMANI
+
 <div align="center">
 
-# MEGH KADEMANI
+# Megh Kademani
 
 ### Electronics & Communication Engineering Student
 
-**Embedded Systems • Automotive Embedded • Electronics**
+**Embedded Systems · Automotive Embedded · Electronics · Programming**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=header" width="100%"/>
-
-[![C](https://img.shields.io/badge/C-Developing-7F3FBF?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/Python-Developing-7F3FBF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Arduino](https://img.shields.io/badge/Arduino-Learning-7F3FBF?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![PCB Design](https://img.shields.io/badge/PCB%20Design-Learning-7F3FBF?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com/)
-[![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Learning-7F3FBF?style=for-the-badge)](https://en.wikipedia.org/wiki/Embedded_system)
-
-<br>
-
-<a href="https://www.linkedin.com/in/meghkademani30">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/meghkademani">
-  <img src="https://img.shields.io/badge/GitHub-Connect-5B2C83?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=meghkademani&style=for-the-badge&color=7F3FBF" alt="Profile Views"/>
+Building practical engineering solutions by combining hardware, software, automation, and electronics.
 
 </div>
 
 ---
 
-## About
-
-I am an **Electronics and Communication Engineering student** with a growing focus on **Embedded Systems and Automotive Embedded Engineering**.
-
-I am building hands-on experience in **C, Python, Arduino, PCB Design, and Electronics** through academic learning and practical projects.
-
-My interests lie in understanding how hardware and software work together to create practical engineering solutions, with a long-term goal of working in **embedded and automotive electronics**.
-
-Alongside my technical development, I am building leadership and organizational experience through my involvement with **Rotaract Club of Elite Belagavi** and **Podcraft NGO**.
-
----
-
-## Technical Stack
+## Tech Stack
 
 ### Programming
 
-![C](https://img.shields.io/badge/C-Developing-6E40C9?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Developing-6E40C9?style=flat-square&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
 
 ### Embedded & Electronics
 
-![Arduino](https://img.shields.io/badge/Arduino-Learning-7F3FBF?style=flat-square&logo=arduino&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Learning-7F3FBF?style=flat-square)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-Learning-7F3FBF?style=flat-square&logo=easyeda&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-Learning-7F3FBF?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-1F6FEB?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/PCB_Design-00629B?style=for-the-badge&logo=easyeda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electronics-FF6F00?style=for-the-badge&logo=electron&logoColor=white"/>
+</p>
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-Developing-5B2C83?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Developing-5B2C83?style=flat-square&logo=mathworks&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-Learning-5B2C83?style=flat-square&logo=easyeda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Learning-5B2C83?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Using-5B2C83?style=flat-square&logo=github&logoColor=white)
-
-> These are areas I am actively learning and developing through coursework, experimentation, and hands-on projects.
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
 
 ---
 
-## Embedded & Automotive Focus
+## Areas of Interest
 
-| Area | Current Focus |
-|---|---|
-| Embedded Systems | Building practical foundations |
-| C Programming | Developing programming fundamentals |
-| Python | Developing programming and automation skills |
-| Arduino | Hands-on microcontroller experimentation |
-| PCB Design | Learning circuit and PCB design workflows |
-| Automotive Embedded | Exploring automotive applications |
-| Electronics | Strengthening hardware fundamentals |
+- 🔌 Embedded Systems
+- 🚗 Automotive Embedded Systems
+- ⚡ Electronics & Hardware
+- 💻 C Programming
+- 🐍 Python
+- 🤖 Arduino & Microcontrollers
+- 👁️ Computer Vision & YOLO
+- 📐 PCB Design
+- 📊 MATLAB & Data Analysis
+- 🔗 Hardware–Software Integration
+- 🛠️ Practical Engineering Projects
 
 ---
 
 ## Featured Projects
 
-<details>
-<summary><b>Vehicle Speed Monitoring System</b></summary>
+### 🚗 Vehicle Speed Monitoring System
 
-<br>
+MATLAB-based vehicle speed monitoring system focused on:
 
-A MATLAB-based vehicle speed monitoring project focused on analyzing vehicle speed, detecting overspeed conditions, classifying speed severity, visualizing speed data, simulating monitoring, and exporting results to CSV.
+- Speed detection
+- Overspeed detection
+- Speed classification
+- Data visualization
+- Monitoring simulation
+- CSV data logging
 
-| Category | Details |
-|---|---|
-| **Platform** | MATLAB |
-| **Focus** | Vehicle Speed Monitoring |
-| **Analysis** | Speed Detection & Classification |
-| **Visualization** | Speed Data Analysis |
-| **Output** | CSV Export |
-| **Application** | Automotive / Transportation |
+**Technology:** MATLAB
 
-### Project Direction
+---
 
-This project provided practical exposure to programming and data analysis applied to an automotive-related problem while strengthening my engineering fundamentals.
+### 🛡️ SentinelOne Industrial
 
-[View Repository](https://github.com/meghkademani)
+Real-time industrial worker safety monitoring system combining:
 
-</details>
-
-<details>
-<summary><b>Embedded & Electronics Projects</b></summary>
-
-<br>
-
-Currently developing projects and practical work involving:
-
-- C Programming
+- Arduino sensors
 - Python
-- Arduino
-- Embedded Systems
-- Electronics
-- PCB Design
-- Automotive Applications
+- YOLO computer vision
+- Real-time monitoring
+- Industrial safety concepts
 
-More projects will be added as they are developed and documented.
-
-</details>
+**Technology:** Python · Arduino · YOLO
 
 ---
 
-## Experience & Leadership
-
-### Treasurer — Rotaract Club of Elite Belagavi
-
-Currently contributing to financial management, coordination, planning, and organizational activities.
-
-**Developing experience in:**
-
-- Leadership
-- Financial Responsibility
-- Team Coordination
-- Communication
-- Decision-Making
-
-### Former Sergeant-at-Arms — Rotaract Club of Elite Belagavi
-
-Contributed to club operations, event coordination, discipline, and organizational activities.
-
-### Former Crew Member — Podcraft NGO
-
-Contributed as a crew member while gaining experience in teamwork, coordination, and organizational activities.
-
----
-
-## Achievements & Involvement
-
-| Recognition | Details |
-|---|---|
-| **Leadership** | Treasurer — Rotaract Club of Elite Belagavi |
-| **Leadership Experience** | Former Sergeant-at-Arms — Rotaract Club of Elite Belagavi |
-| **Organizational Experience** | Former Crew Member — Podcraft NGO |
-| **Engineering Focus** | Embedded Systems & Automotive Embedded Engineering |
-
----
-
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=meghkademani&theme=dark&hide_border=true&ring=9D6BFF&fire=9D6BFF&currStreakLabel=9D6BFF" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meghkademani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghkademani&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+<img src="./assets/yolo-badge.png" width="150" alt="YOLO GitHub Achievement"/>
+
+<br><br>
+
+### 🏆 YOLO
+
+**GitHub Achievement Earned**
 
 </div>
 
@@ -179,29 +123,7 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghkademani&bg_color=0D1117&color=9D6BFF&line=7F3FBF&point=C9A7FF&area=true&hide_border=true" width="100%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-## GitHub Achievement
-
-<div align="center">
-
-### YOLO
-
-**GitHub Achievement Earned**
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghkademani&theme=github-dark&hide_border=true" width="95%"/>
 
 </div>
 
@@ -209,28 +131,78 @@ Contributed as a crew member while gaining experience in teamwork, coordination,
 
 ## Current Focus
 
-```yaml
-Learning:
-  - C Programming
-  - Python
-  - Embedded Systems
-  - Microcontrollers
-  - PCB Design
-  - Automotive Electronics
+### Learning
 
-Building:
-  - Embedded Projects
-  - Electronics Projects
-  - PCB-Based Projects
-  - Practical Engineering Solutions
+- C Programming
+- Python
+- Embedded Systems
+- Microcontrollers
+- PCB Design
+- Automotive Electronics
+- Computer Vision
 
-Exploring:
-  - Automotive Embedded Systems
-  - Vehicle Electronics
-  - Hardware-Software Integration
+### Building
 
-Open To:
-  - Learning Opportunities
-  - Technical Collaborations
-  - Embedded Systems Projects
-  - Electronics Projects
+- Embedded Projects
+- Electronics Projects
+- MATLAB Applications
+- Arduino-Based Systems
+- Computer Vision Projects
+- Practical Engineering Solutions
+
+### Exploring
+
+- Automotive Embedded Systems
+- Vehicle Electronics
+- Industrial Safety Systems
+- Hardware–Software Integration
+- AI & Computer Vision for Embedded Applications
+
+---
+
+## Leadership & Involvement
+
+### Treasurer — Rotaract Club of Elite Belagavi
+
+Developing experience in:
+
+- Leadership
+- Financial Management
+- Team Coordination
+- Planning
+- Communication
+- Decision-Making
+
+### Former Sergeant-at-Arms — Rotaract Club of Elite Belagavi
+
+Contributed to club operations, event coordination, discipline, and organizational activities.
+
+### Former Crew Member — Podcraft NGO
+
+Contributed to teamwork, coordination, and organizational activities.
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://github.com/meghkademani">
+<img src="https://img.shields.io/badge/GitHub-meghkademani-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/meghkademani30/">
+<img src="https://img.shields.io/badge/LinkedIn-Megh_Kademani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Learn · Build · Experiment · Engineer
+
+**Turning ideas into practical engineering systems. 🚀**
+
+</div>
