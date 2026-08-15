@@ -46,17 +46,17 @@ Building practical engineering solutions by combining hardware, software, automa
 
 ## Areas of Interest
 
-- 🔌 Embedded Systems
-- 🚗 Automotive Embedded Systems
-- ⚡ Electronics & Hardware
-- 💻 C Programming
-- 🐍 Python
-- 🤖 Arduino & Microcontrollers
-- 👁️ Computer Vision & YOLO
-- 📐 PCB Design
-- 📊 MATLAB & Data Analysis
-- 🔗 Hardware–Software Integration
-- 🛠️ Practical Engineering Projects
+* 🔌 Embedded Systems
+* 🚗 Automotive Embedded Systems
+* ⚡ Electronics & Hardware
+* 💻 C Programming
+* 🐍 Python
+* 🤖 Arduino & Microcontrollers
+* 👁️ Computer Vision & YOLO
+* 📐 PCB Design
+* 📊 MATLAB & Data Analysis
+* 🔗 Hardware–Software Integration
+* 🛠️ Practical Engineering Projects
 
 ---
 
@@ -66,12 +66,12 @@ Building practical engineering solutions by combining hardware, software, automa
 
 MATLAB-based vehicle speed monitoring system focused on:
 
-- Speed detection
-- Overspeed detection
-- Speed classification
-- Data visualization
-- Monitoring simulation
-- CSV data logging
+* Speed detection
+* Overspeed detection
+* Speed classification
+* Data visualization
+* Monitoring simulation
+* CSV data logging
 
 **Technology:** MATLAB
 
@@ -81,11 +81,11 @@ MATLAB-based vehicle speed monitoring system focused on:
 
 Real-time industrial worker safety monitoring system combining:
 
-- Arduino sensors
-- Python
-- YOLO computer vision
-- Real-time monitoring
-- Industrial safety concepts
+* Arduino sensors
+* Python
+* YOLO computer vision
+* Real-time monitoring
+* Industrial safety concepts
 
 **Technology:** Python · Arduino · YOLO
 
@@ -98,22 +98,6 @@ Real-time industrial worker safety monitoring system combining:
 <img src="https://github-readme-stats.vercel.app/api?username=meghkademani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghkademani&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-<img src="./assets/yolo-badge.png" width="150" alt="YOLO GitHub Achievement"/>
-
-<br><br>
-
-### 🏆 YOLO
-
-**GitHub Achievement Earned**
 
 </div>
 
@@ -133,30 +117,30 @@ Real-time industrial worker safety monitoring system combining:
 
 ### Learning
 
-- C Programming
-- Python
-- Embedded Systems
-- Microcontrollers
-- PCB Design
-- Automotive Electronics
-- Computer Vision
+* C Programming
+* Python
+* Embedded Systems
+* Microcontrollers
+* PCB Design
+* Automotive Electronics
+* Computer Vision
 
 ### Building
 
-- Embedded Projects
-- Electronics Projects
-- MATLAB Applications
-- Arduino-Based Systems
-- Computer Vision Projects
-- Practical Engineering Solutions
+* Embedded Projects
+* Electronics Projects
+* MATLAB Applications
+* Arduino-Based Systems
+* Computer Vision Projects
+* Practical Engineering Solutions
 
 ### Exploring
 
-- Automotive Embedded Systems
-- Vehicle Electronics
-- Industrial Safety Systems
-- Hardware–Software Integration
-- AI & Computer Vision for Embedded Applications
+* Automotive Embedded Systems
+* Vehicle Electronics
+* Industrial Safety Systems
+* Hardware–Software Integration
+* AI & Computer Vision for Embedded Applications
 
 ---
 
@@ -166,12 +150,12 @@ Real-time industrial worker safety monitoring system combining:
 
 Developing experience in:
 
-- Leadership
-- Financial Management
-- Team Coordination
-- Planning
-- Communication
-- Decision-Making
+* Leadership
+* Financial Management
+* Team Coordination
+* Planning
+* Communication
+* Decision-Making
 
 ### Former Sergeant-at-Arms — Rotaract Club of Elite Belagavi
 
