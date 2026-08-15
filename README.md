@@ -91,18 +91,6 @@ Real-time industrial worker safety monitoring system combining:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meghkademani&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghkademani&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -141,29 +129,6 @@ Real-time industrial worker safety monitoring system combining:
 * Industrial Safety Systems
 * Hardware–Software Integration
 * AI & Computer Vision for Embedded Applications
-
----
-
-## Leadership & Involvement
-
-### Treasurer — Rotaract Club of Elite Belagavi
-
-Developing experience in:
-
-* Leadership
-* Financial Management
-* Team Coordination
-* Planning
-* Communication
-* Decision-Making
-
-### Former Sergeant-at-Arms — Rotaract Club of Elite Belagavi
-
-Contributed to club operations, event coordination, discipline, and organizational activities.
-
-### Former Crew Member — Podcraft NGO
-
-Contributed to teamwork, coordination, and organizational activities.
 
 ---
 
