@@ -42,7 +42,6 @@ Alongside my technical development, I am building leadership and organizational 
 
 ![C](https://img.shields.io/badge/C-Developing-6E40C9?style=flat-square\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Developing-6E40C9?style=flat-square\&logo=python\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Experience-6E40C9?style=flat-square\&logo=mathworks\&logoColor=white)
 
 ### Embedded & Electronics
 
@@ -53,6 +52,8 @@ Alongside my technical development, I am building leadership and organizational 
 
 ### Tools
 
+![VS Code](https://img.shields.io/badge/VS%20Code-5B2C83?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-5B2C83?style=flat-square\&logo=mathworks\&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-5B2C83?style=flat-square\&logo=easyeda\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-5B2C83?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-5B2C83?style=flat-square\&logo=github\&logoColor=white)
